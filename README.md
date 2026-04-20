@@ -1,6 +1,8 @@
-## Motto-ul acestui curs (sper ca Andrei sa nu gaseasca prea curand asta)
+# Motto-ul acestui curs (sper ca Andrei sa nu gaseasca prea curand asta)
 
-# Notite Gabi PETrascu:
+## Notite Gabi PETrascu:
 https://drive.google.com/drive/folders/1jWeglKOeXE1dWFHPIc1DSuanuTOENB9N
 
 ![WhatsApp Image 2026-03-15 at 14 35 38](https://github.com/user-attachments/assets/410bce10-3acc-46c4-8840-cc39dc757375)
+
+## Pentru chestii de baza la [CO](https://github.com/facultanu/Control-Optimal):
